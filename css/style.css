@@ -1,0 +1,48 @@
+:root {
+    --primaryBrand: #4D5AE5;
+    --darkColor: #2E2F42;
+    --successColor: #31D0AA;
+    --text: #434455;
+    --subtleText: #8E8F99;
+    --accentColor: #E7E9FC;
+    --lightColor: #F4F4FD;
+    --backgroungColor: #FFFFFF;
+
+}
+body {
+    font-family: 'Roboto', sans-serif;
+    color
+}
+.header-contacts a:hover,
+.header-contacts a:focus {
+ color: #4D5AE5;
+
+}
+.title {
+    background-color: var(--navyColor);
+
+}
+.title h1{
+    font-family: Roboto, sans-serif;
+    font: 700;
+    size: 56px;
+    line-height: 60px;
+    text-align: center;
+    color: #FFFFFF;
+}
+.title-button{
+    font-family: Roboto, sanserif;
+    background-color: #4D5AE5;
+    color: #FFFFFF;
+
+}
+
+.team{
+    background-color: #F4F4FD;
+}
+.more-info{
+    background-color: var(--navyColor);
+}
+.more-text{
+    color: #F4F4FD;
+}
