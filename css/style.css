@@ -46,6 +46,9 @@ text-decoration: none;
 .page:focus {
     color:#404BBF; 
 }
+.header-contacts {
+    font-style: normal;
+}
 .header-contact{
     font-style: normal;
     font-size: 16px;
@@ -67,6 +70,7 @@ text-decoration: none;
     color:#404BBF
 }
 
+
 .title {
     background-color: var(--darkColor);
 
@@ -79,14 +83,14 @@ text-decoration: none;
         color: #FFFFFF;
 }
         .title-button{
-         background-color: #4D5AE5;
-          font-family: "Roboto", sans-serif;
-          font-weight: 500;
-         font-size: 16px;
-         line-height: 1.5;
+            background-color: #4D5AE5;
+            font-family: "Roboto", sans-serif;
+            font-weight: 500;
+            font-size: 16px;
+            line-height: 1.5;
             letter-spacing: 0.04em;
-         color: #FFFFFF;
-         cursor: pointer;
+            color: #FFFFFF;
+            cursor: pointer;
         }
             .title-button:hover,
             .title-button:focus {
@@ -114,7 +118,7 @@ text-decoration: none;
     text-transform: capitalize;
     color: var(--darkColor);
 }
-.offer-images.link {
+.offers-images.link {
     text-decoration: none;
 
 }
@@ -184,9 +188,9 @@ color: var(--text);
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.04em;
-
     background-color: var(--lightColor);
     color: var(--primaryBrand);
+    cursor: pointer;
 }
 .portfolio-button:hover,
 .portfolio-button:focus{
