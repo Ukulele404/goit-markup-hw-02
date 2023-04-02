@@ -198,6 +198,9 @@ color: var(--text);
     background-color: #404BBF;
 
 }
+.images.link {
+    text-decoration: none;
+}
 .portfolio-list{
     font-weight: 500;
     font-size: 20px;
